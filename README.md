@@ -3,20 +3,23 @@
 ## Abstract
 
 Open-source educational resources have many benefits for
-both instructors and learners alike. Cost-savings for learners,
-quick iteration on materials for instructors, and increasing
-the quality of the resources through collaboration are some of those advantages. 
-Given that data science has embraced open source in such a big way, 
-we believe teaching data science should include teaching with open
-source data science tools and sharing educational resources. 
-[*ML: Do we need to introduce a "problem/challenge" here? e.g. Given data science is a new field, data science resources are ...? Creating open-source resources can be challenging because blah? Maybe something about testing on students?*] 
-In this talk, we will discuss an open source textbook and complementary assessments
+both instructors and learners alike, such as cost-savings for learners,
+quick iteration on materials for instructors, and increased
+quality through auditable collaboration.
+And given that the field of data science has embraced open-source development practices in such a big way, 
+we believe that data science educators should "practice what they preach"
+by teaching with, and sharing, open-source tools and resources. 
+However, data science is a very new field; educational resources
+at the truly introductory level are sparse and generally not based on real classroom experience.
+In this talk, we will discuss an open-source textbook (htttps://datasciencebook.ca) 
+and complementary worksheets
 for introducing students to data science that we have created at the University of British Columbia.
-Following the old adage of "practice what you preach", these resources were built 
-authentically [*ML: not sure what you mean by authentically here?*] using open source 
-data science practices and tools (e.g., R, bookdown, Python, Jupyter, Git & GitHub)
-and have been tested in a first-year undergraduate course over three years on
-thousands of students. Specifically, we will comment on the initial objectives of the
+These resources were built using rigorous open-source workflows 
+and tools (e.g., R, bookdown, Python, Jupyter, Git, and GitHub)
+in a public repository (https://github.com/ubc-dsci/introduction-to-datascience),
+and have been tested in a first-year undergraduate course that has served thousands of students 
+from a wide array of backgrounds over three years. 
+Specifically, we will comment on the initial objectives of the
 project and how they evolved, tooling choices we made and their rationale, our
 collaboration strategy, and several challenges we faced throughout the project
-and how we overcame those challenges.
+and how we overcame those challenges. [*TC: this last clause is overly generic; what challenges?*]
