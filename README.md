@@ -11,7 +11,7 @@ we believe that data science educators should "practice what they preach"
 by teaching with, and sharing, open-source tools and resources. 
 However, data science is a very new field; educational resources
 at the truly introductory level are sparse and generally not based on real classroom experience.
-In this talk, we will discuss an open-source textbook (htttps://datasciencebook.ca) 
+In this talk, we will discuss an open-source textbook (https://datasciencebook.ca) 
 and complementary worksheets
 for introducing students to data science that we have created at the University of British Columbia.
 These resources were built using rigorous open-source workflows 
