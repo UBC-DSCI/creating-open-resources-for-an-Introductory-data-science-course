@@ -20,5 +20,5 @@ in a public repository (https://github.com/ubc-dsci/introduction-to-datascience)
 and have been tested in a first-year undergraduate course that has served thousands of students over three years. 
 Specifically, we will comment on the initial objectives of the
 project and how they evolved, tooling choices we made and their rationale, our
-collaboration strategy, and several challenges we faced throughout the project
-and how we overcame those challenges. [*TC: this last clause is overly generic; what challenges?*]
+collaboration strategy, and hard-won lessons we learned both in-class and offline
+about effective data science pedagogy in a large-scale classroom.
