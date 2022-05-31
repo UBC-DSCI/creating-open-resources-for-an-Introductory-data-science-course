@@ -22,3 +22,5 @@ Specifically, we will comment on the initial objectives of the
 project and how they evolved, tooling choices we made and their rationale, our
 collaboration strategy, and hard-won lessons we learned both in-class and offline
 about effective data science pedagogy in a large-scale classroom.
+
+- [Slides](https://docs.google.com/presentation/d/1fUFWJ1py56YjWWrtJBHPXgrODUGPxRecNt312MhEjVg/edit?usp=sharing)
